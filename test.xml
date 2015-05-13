@@ -1,13 +1,7 @@
 <!--This file contains the ID-numbers and questionnaire-types for every particiapant-->
 
-<100>
-<type>1</type>
-</100>
+<100 type="1" />
 
-<200>
-<type>2</type>
-</200>
+<200 type="2" />
 
-<250>
-<type>3</type>
-</250>
+<250 type="1" />
